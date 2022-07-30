@@ -5,11 +5,12 @@
   padding: 30px;
 
   color: rgb(224, 127, 220);
-  font-size: 30px;
-  font-weight: 400;
+  font-size: 34px;
+  font-weight: bold;
   font-style: italic;
 }
 footer {
   font-size: 15px;
   color: rgb(104, 103, 103);
+  padding-bottom: 20px;
 }

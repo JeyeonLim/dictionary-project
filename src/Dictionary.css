@@ -1,4 +1,22 @@
 .Dictionary {
-  color: pink;
-  padding-bottom: 70px;
+  color: rgb(83, 83, 83);
+  padding-bottom: 50px;
+}
+
+.Result {
+  padding: 50px;
+  text-align: left;
+  text-transform: capitalize;
+}
+.Result h1 {
+  color: rgb(245, 159, 173);
+}
+.btn {
+  position: relative;
+  top: -2px;
+  right: -3px;
+}
+
+.Meaning li {
+  list-style: circle;
 }
