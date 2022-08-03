@@ -3,14 +3,32 @@
 }
 .App .head {
   padding: 30px;
-
-  color: rgb(224, 127, 220);
+  color: rgb(230, 199, 142);
   font-size: 34px;
   font-weight: bold;
   font-style: italic;
+  padding-bottom: 0;
+}
+.App-logo {
+  display: block;
+  margin: 0 auto;
+}
+.dictionary-app {
+  position: relative;
+  top: -50px;
 }
 footer {
   font-size: 15px;
   color: rgb(104, 103, 103);
   padding-bottom: 20px;
+}
+.search-input {
+  border: 2px solid;
+
+  border-color: rgb(230, 199, 142);
+  border-radius: 5px;
+  color: none;
+}
+.btn {
+  height: 30px;
 }
