@@ -9,7 +9,7 @@
   text-transform: capitalize;
 }
 .Result h1 {
-  color: rgb(192, 175, 148);
+  margin-bottom: 20px;
 }
 .btn {
   position: relative;
@@ -17,17 +17,9 @@
   right: -3px;
 }
 
-.Meaning li {
-  list-style: circle;
-}
-
-.Synonyms {
-  color: rgb(163, 150, 128);
-  font-weight: bold;
-}
 .Dictionary section {
-  background: rgb(245, 239, 230);
-  padding: 30px;
-  border-radius: 16px;
+  background: #faf0eb;
+  padding: 25px;
+  border-radius: 12px;
   margin: 10px 0;
 }

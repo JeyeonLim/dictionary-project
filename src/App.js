@@ -11,7 +11,7 @@ function App() {
           <p className="dictionary-app">Dictionary app</p>
         </div>
         <main>
-          <Dictionary />
+          <Dictionary defaultkeyword="hello" />
         </main>
         <footer>
           Coded by{" "}

@@ -3,7 +3,7 @@
 }
 .App .head {
   padding: 30px;
-  color: rgb(230, 199, 142);
+  color: #e1b993;
   font-size: 34px;
   font-weight: bold;
   font-style: italic;
@@ -25,10 +25,20 @@ footer {
 .search-input {
   border: 2px solid;
 
-  border-color: rgb(230, 199, 142);
+  border-color: #e1b993;
   border-radius: 5px;
   color: none;
+  margin-right: 5px;
 }
-.btn {
-  height: 30px;
+.button {
+  border: 2px solid #e1b993;
+  background-color: #e1b993;
+  color: white;
+  border-radius: 5px;
+}
+
+.button:hover {
+  background-color: white;
+  border-color: #e1b993;
+  color: #997b5d;
 }
