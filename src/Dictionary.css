@@ -18,8 +18,9 @@
 }
 
 .Dictionary section {
-  background: #faf0eb;
+  background: white;
   padding: 25px;
   border-radius: 12px;
   margin: 10px 0;
+  box-shadow: 0 10px 20px rgb(0 0 0 / 5%);
 }
