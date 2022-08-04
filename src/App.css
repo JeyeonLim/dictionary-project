@@ -42,3 +42,9 @@ footer {
   border-color: #e1b993;
   color: #997b5d;
 }
+
+form {
+  position: relative;
+  top: -20px;
+  margin-bottom: 30px;
+}
